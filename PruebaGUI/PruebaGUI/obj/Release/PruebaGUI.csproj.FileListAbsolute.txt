@@ -1,0 +1,6 @@
+C:\Users\jorge.chavarria\Desktop\PruebaGUI\PruebaGUI\bin\PruebaGUI.dll.config
+C:\Users\jorge.chavarria\Desktop\PruebaGUI\PruebaGUI\bin\PruebaGUI.dll
+C:\Users\jorge.chavarria\Desktop\PruebaGUI\PruebaGUI\bin\PruebaGUI.pdb
+C:\Users\jorge.chavarria\Desktop\PruebaGUI\PruebaGUI\obj\Release\PruebaGUI.csprojResolveAssemblyReference.cache
+C:\Users\jorge.chavarria\Desktop\PruebaGUI\PruebaGUI\obj\Release\PruebaGUI.dll
+C:\Users\jorge.chavarria\Desktop\PruebaGUI\PruebaGUI\obj\Release\PruebaGUI.pdb

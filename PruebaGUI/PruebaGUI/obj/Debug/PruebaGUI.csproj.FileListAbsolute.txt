@@ -1,0 +1,18 @@
+C:\Users\jorge.chavarria\Documents\Visual Studio 2013\Projects\PruebaGUI\PruebaGUI\bin\PruebaGUI.dll.config
+C:\Users\jorge.chavarria\Documents\Visual Studio 2013\Projects\PruebaGUI\PruebaGUI\bin\PruebaGUI.dll
+C:\Users\jorge.chavarria\Documents\Visual Studio 2013\Projects\PruebaGUI\PruebaGUI\bin\PruebaGUI.pdb
+C:\Users\jorge.chavarria\Documents\Visual Studio 2013\Projects\PruebaGUI\PruebaGUI\obj\Debug\PruebaGUI.dll
+C:\Users\jorge.chavarria\Documents\Visual Studio 2013\Projects\PruebaGUI\PruebaGUI\obj\Debug\PruebaGUI.pdb
+C:\Users\jorge.chavarria\Documents\Visual Studio 2013\Projects\PruebaGUI\PruebaGUI\obj\Debug\PruebaGUI.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\adrian\PruebaGUI\PruebaGUI\bin\PruebaGUI.dll.config
+C:\Users\Admin\Desktop\adrian\PruebaGUI\PruebaGUI\bin\PruebaGUI.dll
+C:\Users\Admin\Desktop\adrian\PruebaGUI\PruebaGUI\bin\PruebaGUI.pdb
+C:\Users\Admin\Desktop\adrian\PruebaGUI\PruebaGUI\obj\Debug\PruebaGUI.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\adrian\PruebaGUI\PruebaGUI\obj\Debug\PruebaGUI.dll
+C:\Users\Admin\Desktop\adrian\PruebaGUI\PruebaGUI\obj\Debug\PruebaGUI.pdb
+C:\Users\jorge.chavarria\Desktop\PruebaGUI\PruebaGUI\bin\PruebaGUI.dll.config
+C:\Users\jorge.chavarria\Desktop\PruebaGUI\PruebaGUI\bin\PruebaGUI.dll
+C:\Users\jorge.chavarria\Desktop\PruebaGUI\PruebaGUI\bin\PruebaGUI.pdb
+C:\Users\jorge.chavarria\Desktop\PruebaGUI\PruebaGUI\obj\Debug\PruebaGUI.csprojResolveAssemblyReference.cache
+C:\Users\jorge.chavarria\Desktop\PruebaGUI\PruebaGUI\obj\Debug\PruebaGUI.dll
+C:\Users\jorge.chavarria\Desktop\PruebaGUI\PruebaGUI\obj\Debug\PruebaGUI.pdb
